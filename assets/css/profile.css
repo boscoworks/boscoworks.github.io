@@ -1,9 +1,0 @@
-@import url(font-awesome.min.css);
-
-
-.span gravatar {
-    background: url('https://www.gravatar.com/avatar/7f114a0b88ef516d0937410fb97b6e98');
-    border-radius: 150px;
-    -moz-border-image: border-radius: 150px;
-    -webkit-border-image: border-radius: 150px;
-}
